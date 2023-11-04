@@ -1,4 +1,4 @@
-# IMDB-SQL-Query-Analysis-Exploring-Movies-and-Actors
+# IMDb-SQL-Query-Analysis-Exploring-Movies-and-Actors
 
 This project focuses on SQL queries using IMDB data. It involves the analysis of various tables and databases using SQLite in a Jupyter Notebook. Below, you'll find a brief overview and the main tasks that have been accomplished.
 
